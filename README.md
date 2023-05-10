@@ -31,3 +31,10 @@ This dataset contains information about all IPL matches played from 2008 to 2019
 * PICKLE : For Pickling The Python Object Structure in Byte Stream
 
 ![image](https://github.com/RAJDEEPBODAR7/IPL-Predictor/assets/119515262/c22ab2bf-653a-4e1a-9ca7-f288d0e82129)
+
+![image](https://github.com/RAJDEEPBODAR7/IPL-Predictor/assets/119515262/9fcf505f-b595-4449-b1dc-ef3f0ae8f1ae)
+
+If any parametres like completion of overs or wickets or target is achieved,the model gives the winner accordingly
+
+![image](https://github.com/RAJDEEPBODAR7/IPL-Predictor/assets/119515262/a339394d-5668-4a55-aaa1-7edf1eaa3d22)
+
